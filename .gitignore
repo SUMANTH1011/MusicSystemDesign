@@ -1,0 +1,21 @@
+# Build and IDE
+*.exe
+*.o
+*.obj
+pre.cpp
+tiny.cpp
+check1.cpp
+test.exe
+tiny.exe
+main.exe
+/.vscode
+/.idea
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Generated
+*.pyc
+__pycache__/
